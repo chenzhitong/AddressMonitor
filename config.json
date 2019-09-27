@@ -1,0 +1,15 @@
+{
+  "email": {
+    "username": "",
+    "password": ""
+  },
+  "yuntongxun": {
+    "ACCOUNT SID": "",
+    "AUTH TOKEN": "",
+    "AppID": ""
+  },
+  "sms": [
+  ],
+  "email-list": [
+  ]
+}
